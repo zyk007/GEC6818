@@ -1,1 +1,10 @@
-
+{
+    "files.associations": {
+        "main.h": "c",
+        "stdio.h": "c",
+        "types.h": "c",
+        "show_bmp.h": "c",
+        "type_traits": "c",
+        "string.h": "c"
+    }
+}
